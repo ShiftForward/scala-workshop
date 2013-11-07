@@ -152,20 +152,20 @@ class Car {
     private int year
     private String model
 
-    public Car(int year, String model) {
+    Car(int year, String model) {
         this.year = year
         this.model = model
     }
 
-    public int getYear() {
+    int getYear() {
         return year
     }
 
-    public String getModel() {
+    String getModel() {
         return model
     }
 
-    public boolean equals(Object obj) {
+    boolean equals(Object obj) {
         if (obj == null || !(obj instanceof Car)) {
             return false
         }
