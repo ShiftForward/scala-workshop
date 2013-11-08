@@ -2,8 +2,7 @@
 
 Este repositório contém o esqueleto de um trabalho prático a realizar após o
 "Workshop de Scala" leccionado pela [ShiftForward][shiftforward] na FEUP, a 8 de
-Novembro de 2013. A entrega deste trabalho prático permite a obtenção do
-certificado de presença no workshop.
+Novembro de 2013.
 
 ## Introdução
 
