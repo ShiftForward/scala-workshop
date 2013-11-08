@@ -11,7 +11,7 @@ O trabalho prático consiste na construção de um "solver" para o popular
 quebra-cabeças das [Torres de Hanoi][wikipedia]. É já fornecido o esqueleto da
 solução, bem como um conjunto de specs, cabendo ao formando a implementação dos
 métodos que incluem `???` no seu corpo. É também recomendável a extensão das
-specs existentes, por forma a conseguiruma melhor validação da solução obtida.
+specs existentes, por forma a conseguir uma melhor validação da solução obtida.
 
 ## Leitura recomendada
 
